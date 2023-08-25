@@ -1,0 +1,9 @@
+img {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  float: right;
+}
+
+h1 {
+  margin-top: 10px;
+}
